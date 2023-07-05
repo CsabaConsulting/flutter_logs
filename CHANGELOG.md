@@ -1,3 +1,17 @@
+## 2.1.10
+* Set min sdkVersion to 16
+
+## 2.1.9
+* Added support for Android SDK 33
+
+## 2.1.8
+* Fixed build issues from [PR #47]
+
+## 2.1.7
+* Added Support for Android Embedding v2
+* Updated dependencies
+* Fixes PR #28,async functions should return Future + format
+
 ## 2.1.6
 * Added support for flutter 3 build
 
